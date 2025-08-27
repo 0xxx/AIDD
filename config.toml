@@ -1,4 +1,5 @@
 base_url = "https://fitdd.pages.dev"
+theme = "tabi"
 title = "~/foo"
 description = "AI-driven Drug Development."
 author = "fitdd"
